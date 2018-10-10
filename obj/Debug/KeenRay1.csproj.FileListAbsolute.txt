@@ -1,0 +1,99 @@
+C:\Users\lanmage2\Desktop\KeenRay1\bin\Debug\KeenRay1.exe.config
+C:\Users\lanmage2\Desktop\KeenRay1\bin\Debug\KeenRay1.exe
+C:\Users\lanmage2\Desktop\KeenRay1\bin\Debug\KeenRay1.pdb
+C:\Users\lanmage2\Desktop\KeenRay1\obj\Debug\App.g.cs
+C:\Users\lanmage2\Desktop\KeenRay1\obj\Debug\KeenRay1_MarkupCompile.cache
+C:\Users\lanmage2\Desktop\KeenRay1\obj\Debug\KeenRay1_MarkupCompile.lref
+C:\Users\lanmage2\Desktop\KeenRay1\obj\Debug\KeenRay1.g.resources
+C:\Users\lanmage2\Desktop\KeenRay1\obj\Debug\KeenRay1.Properties.Resources.resources
+C:\Users\lanmage2\Desktop\KeenRay1\obj\Debug\KeenRay1.csproj.GenerateResource.Cache
+C:\Users\lanmage2\Desktop\KeenRay1\obj\Debug\KeenRay1.exe
+C:\Users\lanmage2\Desktop\KeenRay1\obj\Debug\KeenRay1.pdb
+C:\Users\lanmage2\Desktop\KeenRay1\obj\Debug\App.baml
+C:\Users\lanmage2\Desktop\KeenRay1\obj\Debug\ButtonStyle.baml
+C:\Users\lanmage2\Desktop\KeenRay1\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\lanmage2\Desktop\KeenRay1\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\lanmage2\Desktop\KeenRay1\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\lanmage2\Desktop\KeenRay1\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\lanmage2\Desktop\KeenRay1\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\lanmage2\Desktop\KeenRay1\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\lanmage2\Desktop\KeenRay1\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\lanmage2\Desktop\KeenRay1\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\lanmage2\Desktop\KeenRay1\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\lanmage2\Desktop\KeenRay1\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\lanmage2\Desktop\KeenRay1\obj\Debug\KeenRay1.csprojResolveAssemblyReference.cache
+C:\Users\lanmage2\Desktop\KeenRay1\obj\Debug\Views\HomePage.g.cs
+C:\Users\lanmage2\Desktop\KeenRay1\obj\Debug\Views\HomePage.baml
+F:\百度云同步盘\我的学习\8、Blend\KeenRay1（矢量图工程）\bin\Debug\KeenRay1.exe.config
+F:\百度云同步盘\我的学习\8、Blend\KeenRay1（矢量图工程）\obj\Debug\KeenRay1.exe
+F:\百度云同步盘\我的学习\8、Blend\KeenRay1（矢量图工程）\obj\Debug\KeenRay1.pdb
+F:\百度云同步盘\我的学习\8、Blend\[2] KeenRay1（矢量图工程） - 添加StutasBar\bin\Debug\KeenRay1.exe.config
+F:\百度云同步盘\我的学习\8、Blend\[2] KeenRay1（矢量图工程） - 添加StutasBar\obj\Debug\KeenRay1.exe
+F:\百度云同步盘\我的学习\8、Blend\[2] KeenRay1（矢量图工程） - 添加StutasBar\obj\Debug\KeenRay1.pdb
+F:\百度云同步盘\我的学习\8、Blend\[3] KeenRay1 裁剪，挖空\bin\Debug\KeenRay1.exe.config
+F:\百度云同步盘\我的学习\8、Blend\[3] KeenRay1 裁剪，挖空\obj\Debug\KeenRay1.exe
+F:\百度云同步盘\我的学习\8、Blend\[3] KeenRay1 裁剪，挖空\obj\Debug\KeenRay1.pdb
+F:\百度云同步盘\我的学习\8、Blend\[3] KeenRay1 调整形状+颜色\bin\Debug\KeenRay1.exe.config
+F:\百度云同步盘\我的学习\8、Blend\[3] KeenRay1 调整形状+颜色\obj\Debug\KeenRay1.exe
+F:\百度云同步盘\我的学习\8、Blend\[3] KeenRay1 调整形状+颜色\obj\Debug\KeenRay1.pdb
+F:\百度云同步盘\我的学习\8、Blend\[4] KeenRay1 把之前未裁剪的图形进行裁剪或挖空\bin\Debug\KeenRay1.exe.config
+F:\百度云同步盘\我的学习\8、Blend\[4] KeenRay1 把之前未裁剪的图形进行裁剪或挖空\obj\Debug\KeenRay1.exe
+F:\百度云同步盘\我的学习\8、Blend\[4] KeenRay1 把之前未裁剪的图形进行裁剪或挖空\obj\Debug\KeenRay1.pdb
+F:\百度云同步盘\我的学习\8、Blend\[5] KeenRay1 合并(背景不放入合并)+变成Path\bin\Debug\KeenRay1.exe.config
+F:\百度云同步盘\我的学习\8、Blend\[5] KeenRay1 合并(背景不放入合并)+变成Path\obj\Debug\KeenRay1.exe
+F:\百度云同步盘\我的学习\8、Blend\[5] KeenRay1 合并(背景不放入合并)+变成Path\obj\Debug\KeenRay1.pdb
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\bin\Debug\KeenRay1.exe.config
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\obj\Debug\KeenRay1.exe
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\obj\Debug\KeenRay1.pdb
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\bin\Debug\KeenRay1.exe
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\bin\Debug\KeenRay1.pdb
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\bin\Debug\Microsoft.Expression.Controls.dll
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\bin\Debug\Microsoft.Expression.Drawing.dll
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\bin\Debug\de\Microsoft.Expression.Controls.resources.dll
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\bin\Debug\es\Microsoft.Expression.Controls.resources.dll
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\bin\Debug\fr\Microsoft.Expression.Controls.resources.dll
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\bin\Debug\it\Microsoft.Expression.Controls.resources.dll
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\bin\Debug\ja\Microsoft.Expression.Controls.resources.dll
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\bin\Debug\ko\Microsoft.Expression.Controls.resources.dll
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\bin\Debug\ru\Microsoft.Expression.Controls.resources.dll
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\bin\Debug\zh-Hans\Microsoft.Expression.Controls.resources.dll
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\bin\Debug\zh-Hant\Microsoft.Expression.Controls.resources.dll
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\obj\Debug\Views\HistoryPage.g.cs
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\obj\Debug\Views\HomePage.g.cs
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\obj\Debug\Views\Naviga.g.cs
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\obj\Debug\Views\PrintPage.g.cs
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\obj\Debug\Views\PublicIcons122x52.g.cs
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\obj\Debug\Views\PublicIcons60x60.g.cs
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\obj\Debug\Views\ReviewPage42x100.g.cs
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\obj\Debug\Views\ReviewPage60x60.g.cs
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\obj\Debug\Views\StutasBar.g.cs
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\obj\Debug\Views\SystemSetPage.g.cs
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\obj\Debug\App.g.cs
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\obj\Debug\KeenRay1_MarkupCompile.cache
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\obj\Debug\KeenRay1_MarkupCompile.lref
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\obj\Debug\App.baml
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\obj\Debug\ButtonStyle.baml
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\obj\Debug\Views\HistoryPage.baml
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\obj\Debug\Views\HomePage.baml
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\obj\Debug\Views\Naviga.baml
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\obj\Debug\Views\PrintPage.baml
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\obj\Debug\Views\PublicIcons122x52.baml
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\obj\Debug\Views\PublicIcons60x60.baml
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\obj\Debug\Views\ReviewPage42x100.baml
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\obj\Debug\Views\ReviewPage60x60.baml
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\obj\Debug\Views\StutasBar.baml
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\obj\Debug\Views\SystemSetPage.baml
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\obj\Debug\KeenRay1.g.resources
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\obj\Debug\KeenRay1.Properties.Resources.resources
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\obj\Debug\KeenRay1.csproj.GenerateResource.Cache
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\obj\Debug\Window1.g.cs
+F:\百度云同步盘\我的学习\8、Blend\[6] KeenRay1 运行程序\obj\Debug\Window1.baml

@@ -1,0 +1,10 @@
+﻿<Application x:Class="KeenRay1.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:KeenRay1.Views"
+             StartupUri="Window1.xaml">
+    <Application.Resources>
+        <ResourceDictionary Source="ButtonStyle.xaml"/>
+        <!--<ResourceDictionary Source="ReviewPage60x60.xaml"/>-->
+    </Application.Resources>
+</Application>

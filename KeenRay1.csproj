@@ -1,0 +1,448 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BF8A171F-E9A1-4C86-A7AB-12306658EB9D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>KeenRay1</RootNamespace>
+    <AssemblyName>KeenRay1</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Expression.Controls, Version=4.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Expression.Drawing, Version=4.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Views\HistoryPage.xaml.cs">
+      <DependentUpon>HistoryPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\HomePage.xaml.cs">
+      <DependentUpon>HomePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Naviga.xaml.cs">
+      <DependentUpon>Naviga.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\PrintPage.xaml.cs">
+      <DependentUpon>PrintPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\PublicIcons60x60.xaml.cs">
+      <DependentUpon>PublicIcons60x60.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ReviewPage42x100.xaml.cs">
+      <DependentUpon>ReviewPage42x100.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ReviewPage60x60.xaml.cs">
+      <DependentUpon>ReviewPage60x60.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\StutasBar.xaml.cs">
+      <DependentUpon>StutasBar.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\SystemSetPage.xaml.cs">
+      <DependentUpon>SystemSetPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Window1.xaml.cs">
+      <DependentUpon>Window1.xaml</DependentUpon>
+    </Compile>
+    <Page Include="ButtonStyle.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\HistoryPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\HomePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\Naviga.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\PrintPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\PublicIcons122x52.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Views\PublicIcons122x52.xaml.cs">
+      <DependentUpon>PublicIcons122x52.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="Views\PublicIcons60x60.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\ReviewPage42x100.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\ReviewPage60x60.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\StutasBar.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\SystemSetPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Window1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Icons\HistoryPage\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Icons\PublicIcons\btn_1X2_Enable.png" />
+    <Resource Include="Icons\PublicIcons\Delete_Enable.png" />
+    <Resource Include="Icons\PublicIcons\DoMore_Enable.png" />
+    <Resource Include="Icons\PublicIcons\Edit_Enable.png" />
+    <Resource Include="Icons\PublicIcons\FlipHorizontal_Enable.png" />
+    <Resource Include="Icons\PublicIcons\FlipLeft_Enable.png" />
+    <Resource Include="Icons\PublicIcons\FlipRight_Enable.png" />
+    <Resource Include="Icons\PublicIcons\FlipVertical_Enable.png" />
+    <Resource Include="Icons\PublicIcons\Listsearch_Enable.png" />
+    <Resource Include="Icons\PublicIcons\L_Enable.png" />
+    <Resource Include="Icons\PublicIcons\MoreLayout_Enable.png" />
+    <Resource Include="Icons\PublicIcons\R_Enable.png" />
+    <Resource Include="Icons\PublicIcons\Search_Enable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="btn_1X1_Enable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Search_Enable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Delete_Enable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Edit_Enable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Listsearch_Enable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="企业微信截图_15380446061089.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Sendd_Enable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Sendipads_Enable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Sendpacs_Enable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Sendu_Enable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Refresh_Enable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Dropdown_Enable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Listdropdown_Enable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="btn_2X2_Enable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Angle_Enable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Antiwhite_Enable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Arrow_Enable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Automatic_Enable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Choice_Enable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Eraser_Enable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="FullScreen_Enable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="LinearMeasurement_Enable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Magnifier_Enable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Nor_Enable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="OneToOne_Enable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="RectangularMeasurement_Enable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Revoke_Enable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Roi_Enable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="SavePicture_Enable.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="SendImage_Enable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="T_Enable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Tailoring_Enable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Left_Enable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Right_Enable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Home_Enable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Home_Touches.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="History_Touches.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Print_Touches.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Report_Touches.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="ReadImage_Touches.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="SetUp_Touches.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Study_Touches.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="关机.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="禁止曝光.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="曝光就绪.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="预曝光.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="正在曝光.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="磁盘.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="电池.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Log_Touches.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="日志-错误-常态.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="日志-警告-常态.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="日志-错误-点击.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="日志-错误-悬停.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="日志-警告-点击.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="日志-警告-悬停.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Log_Enable.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="球管.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="平板温度高.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="平板温度正常.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="电池-0%25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="电池-10%25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="电池-20%25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="电池-30%25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="电池-40%25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="电池-50%25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="电池-60%25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="电池-70%25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="电池-80%25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="电池-90%25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="磁盘容量余5GByte.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="磁盘余量余20GByte.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="磁盘容量大于20GByte.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="磁盘空间.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="QQ截图20180929103336.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="HospitalInformation_Touches.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="InspectionProtocol_Touches.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="LogManagement_Touches.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Skc_Touches.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="StorageConfiguration_Touches.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="UserInformation_Touches.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="VersionInformation_Touches.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Web_Touches.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

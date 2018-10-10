@@ -1,0 +1,80 @@
+﻿<Window x:Class="KeenRay1.Views.ReviewPage42x100"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KeenRay1.Views"
+        mc:Ignorable="d"
+        Title="ReviewPage42x100" Height="400" Width="200">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="10"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="10"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="10"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="10"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="10"/>
+        </Grid.ColumnDefinitions>
+        <Image x:Name="___KeenRay1_component_Left_Enable_png" Grid.Row="1" Grid.Column="1" Source="/KeenRay1;component/Left_Enable.png" Stretch="Fill"/>
+        <Image x:Name="___KeenRay1_component_Right_Enable_png" Grid.Row="1" Grid.Column="3"   Source="/KeenRay1;component/Right_Enable.png" Stretch="Fill"/>
+        <Canvas Grid.Row="3" Grid.Column="1" Width="42" Height="100">
+            <Path Data="M0.5,5.5 C0.5,2.7385763 2.7385763,0.5 5.5,0.5 L116.5,0.5 C119.26142,0.5 121.5,2.7385763 121.5,5.5 L121.5,46.5 C121.5,49.261424 119.26142,51.5 116.5,51.5 L5.5,51.5 C2.7385763,51.5 0.5,49.261424 0.5,46.5 z" HorizontalAlignment="Left" Height="100"  Stretch="Fill" Stroke="#FFCDCDCD" VerticalAlignment="Bottom" Width="42" >
+                <Path.Fill>
+                    <LinearGradientBrush EndPoint="0.5,1" Opacity="0.99" StartPoint="0.5,0">
+                        <GradientStop Color="#FFDCE0E3" Offset="0.456"/>
+                        <GradientStop Color="#FFD8DDE0" Offset="0.828"/>
+                        <GradientStop Color="White" Offset="0.033"/>
+                        <GradientStop Color="White" Offset="0.979"/>
+                    </LinearGradientBrush>
+                </Path.Fill>
+            </Path>
+            <Path Stroke="#FF4E7BBF" StrokeThickness="2.5" Data="M1.6900297,19.279295 L21.191029,19.279295 21.191029,21.005295 1.6900297,21.005295 z M3.0973853,1.25 L3.5489966,18.753174 1.7016115,18.80084 1.25,1.2976646 z" Height="22.255" Canvas.Left="8.87" RenderTransformOrigin="0.509804146813064,0.905056299323696" Stretch="Fill" Canvas.Top="36.761" Width="22.441">
+                <Path.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="45.403"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Path.RenderTransform>
+            </Path>
+        </Canvas>
+
+        <Canvas Grid.Row="3" Grid.Column="3" Width="42" Height="100">
+            <Path Data="M0.5,5.5 C0.5,2.7385763 2.7385763,0.5 5.5,0.5 L116.5,0.5 C119.26142,0.5 121.5,2.7385763 121.5,5.5 L121.5,46.5 C121.5,49.261424 119.26142,51.5 116.5,51.5 L5.5,51.5 C2.7385763,51.5 0.5,49.261424 0.5,46.5 z" HorizontalAlignment="Left" Height="100"  Stretch="Fill" Stroke="#FFCDCDCD" VerticalAlignment="Bottom" Width="42" >
+                <Path.Fill>
+                    <LinearGradientBrush EndPoint="0.5,1" Opacity="0.99" StartPoint="0.5,0">
+                        <GradientStop Color="#FFDCE0E3" Offset="0.456"/>
+                        <GradientStop Color="#FFD8DDE0" Offset="0.828"/>
+                        <GradientStop Color="White" Offset="0.033"/>
+                        <GradientStop Color="White" Offset="0.979"/>
+                    </LinearGradientBrush>
+                </Path.Fill>
+            </Path>
+            <Path Stroke="#FF4E7BBF" StrokeThickness="2.5" Data="M1.6892475,19.279625 L22.078247,19.279625 22.078247,21.005625 1.6892475,21.005625 z M3.0973851,1.25 L3.5489966,18.753174 1.7016116,18.800839 1.25,1.2976646 z" Height="22.256" Canvas.Left="8.751" RenderTransformOrigin="0.50941450080744,0.905057706999176" Stretch="Fill" Canvas.Top="36.94" Width="23.328">
+                <Path.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="225.775"/>
+                        <TranslateTransform X="0.669" Y="-12.935"/>
+                    </TransformGroup>
+                </Path.RenderTransform>
+            </Path>
+
+        </Canvas>
+    </Grid>
+</Window>

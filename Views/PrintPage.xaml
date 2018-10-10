@@ -1,0 +1,88 @@
+﻿<Window x:Class="KeenRay1.Views.PrintPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KeenRay1.Views"
+        mc:Ignorable="d"
+        Title="PrintPage" Height="300" Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="10"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="10"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="10"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="10"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="10"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="10"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="10"/>
+        </Grid.ColumnDefinitions>
+
+        <Image x:Name="___KeenRay1_component_btn_2X2_Enable_png" Grid.Column="1" Grid.Row="1" Source="/KeenRay1;component/btn_2X2_Enable.png" Stretch="Fill"/>
+        <Canvas Grid.Row="3" Grid.Column="1" Width="60" Height="60">
+            <Path Data="M0.5,5.5 C0.5,2.7385763 2.7385763,0.5 5.5,0.5 L116.5,0.5 C119.26142,0.5 121.5,2.7385763 121.5,5.5 L121.5,46.5 C121.5,49.261424 119.26142,51.5 116.5,51.5 L5.5,51.5 C2.7385763,51.5 0.5,49.261424 0.5,46.5 z" HorizontalAlignment="Left" Height="60"  Stretch="Fill" Stroke="#FFCDCDCD" VerticalAlignment="Bottom" Width="60" >
+                <Path.Fill>
+                    <LinearGradientBrush EndPoint="0.5,1" Opacity="0.99" StartPoint="0.5,0">
+                        <GradientStop Color="#FFDCE0E3" Offset="0.456"/>
+                        <GradientStop Color="#FFD8DDE0" Offset="0.828"/>
+                        <GradientStop Color="White" Offset="0.033"/>
+                        <GradientStop Color="White" Offset="0.979"/>
+                    </LinearGradientBrush>
+                </Path.Fill>
+            </Path>
+            <Path Data="M23.084,22.584 L39.667999,22.584 39.667999,38.667999 23.084,38.667999 z M0.5,22.584 L17.084,22.584 17.084,38.667999 0.5,38.667999 z M23.084,0.5 L39.667999,0.5 39.667999,16.584 23.084,16.584 z M0.5,0.5 L17.084,0.5 17.084,16.584 0.5,16.584 z" Fill="#FF4E7BBF" Height="39.168" Canvas.Left="9.332" Stretch="Fill" Stroke="#FF4E7BBF" Canvas.Top="10.495" Width="40.168"/>
+        </Canvas>
+
+        <Canvas Grid.Row="3" Grid.Column="3" Width="40" Height="40">
+            <Path Data="M0.5,5.5 C0.5,2.7385763 2.7385763,0.5 5.5,0.5 L116.5,0.5 C119.26142,0.5 121.5,2.7385763 121.5,5.5 L121.5,46.5 C121.5,49.261424 119.26142,51.5 116.5,51.5 L5.5,51.5 C2.7385763,51.5 0.5,49.261424 0.5,46.5 z" HorizontalAlignment="Left" Height="40"  Stretch="Fill" Stroke="#FFCDCDCD" VerticalAlignment="Bottom" Width="40" >
+                <Path.Fill>
+                    <LinearGradientBrush EndPoint="0.5,1" Opacity="0.99" StartPoint="0.5,0">
+                        <GradientStop Color="#FFDCE0E3" Offset="0.456"/>
+                        <GradientStop Color="#FFD8DDE0" Offset="0.828"/>
+                        <GradientStop Color="White" Offset="0.033"/>
+                        <GradientStop Color="White" Offset="0.979"/>
+                    </LinearGradientBrush>
+                </Path.Fill>
+            </Path>
+            <Path Stroke="#FF4E7BBF" Height="1.887" Canvas.Left="11.344" Canvas.Top="20.651" Width="11.418" StrokeThickness="2.5" RenderTransformOrigin="0.5,0.5" Data="M1.25,1.25 L10.168,1.25 z" Stretch="Fill">
+                <Path.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="42.475"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Path.RenderTransform>
+            </Path>
+            <Path Stroke="#FF4E7BBF" Height="1.887" Canvas.Left="19.02" Canvas.Top="20.66" Width="12.094" StrokeThickness="2.5" RenderTransformOrigin="0.5,0.5" Data="M1.25,1.25 L10.844,1.25 z" Stretch="Fill">
+                <Path.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="-41.32"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Path.RenderTransform>
+            </Path>
+
+        </Canvas>
+        <Image x:Name="___KeenRay1_component_Dropdown_Enable_png" Grid.Column="3" Grid.Row="1" Source="/KeenRay1;component/Dropdown_Enable.png"/>
+
+    </Grid>
+</Window>
